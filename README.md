@@ -6,6 +6,7 @@ Buka IDLE-Pyhton
 langkah 1
 
 Klik New File
+![python2](https://user-images.githubusercontent.com/56529741/67614952-6ab79e00-f77a-11e9-935f-11e5b078c4b7.jpg)
 
 langkah 2
 
