@@ -26,9 +26,12 @@ Buatlah Rumus Agar Bilangan Yang Tadi Di Input Bisa Terdetekasi Secara Program, 
 
 
 Klik Run Module, Agar Semua Yang Dibuat Tadi Bisa Langsung Masuk Terprogram
+![python5](https://user-images.githubusercontent.com/56529741/67615069-54aadd00-f77c-11e9-83a6-ef290ce633fe.jpg)
+
 
 langkah 4
 
 DAN SEPERTI INILAH HASILNYA
+
 
 langkah 5
