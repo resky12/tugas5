@@ -32,6 +32,5 @@ Klik Run Module, Agar Semua Yang Dibuat Tadi Bisa Langsung Masuk Terprogram
 langkah 4
 
 DAN SEPERTI INILAH HASILNYA
-
-
-langkah 5
+![python6](https://user-images.githubusercontent.com/56529741/67615076-74420580-f77c-11e9-90ff-6e4afb3ee85e.png)
+resky 
