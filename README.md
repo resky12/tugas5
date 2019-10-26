@@ -16,6 +16,7 @@ a = int(input("Masukan bilangan A:"))
 b = int(input("Masukan bilangan B:"))
 
 c = int(input("Masukan bilangan C:"))
+![python3](https://user-images.githubusercontent.com/56529741/67614960-9175d480-f77a-11e9-99dd-9e6b57dd88a5.jpg)
 
 langkah 3
 
