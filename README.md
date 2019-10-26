@@ -21,9 +21,12 @@ c = int(input("Masukan bilangan C:"))
 langkah 3
 
 Buatlah Rumus Agar Bilangan Yang Tadi Di Input Bisa Terdetekasi Secara Program, Rumus Seperti Berikut
-a
+![python4](https://user-images.githubusercontent.com/56529741/67615060-2e853d00-f77c-11e9-95b0-9f5dd7f00277.jpg)
+
+
 
 Klik Run Module, Agar Semua Yang Dibuat Tadi Bisa Langsung Masuk Terprogram
+
 langkah 4
 
 DAN SEPERTI INILAH HASILNYA
